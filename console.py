@@ -45,7 +45,7 @@ def print(output, end = '\n'):
 # ############################### Color Text ###############################
 # ##########################################################################
 
-class color():mark
+class color():
     underline = "4"
     whiteBackground = "7"
     blackBackground = "8"
