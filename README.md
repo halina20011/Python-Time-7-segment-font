@@ -20,7 +20,9 @@
 # Preview:
 ![Example](images/Screenshot.png?raw=true)
 
-# Instalation:
+# Installation:
 `git clone https://github.com/halina20011/Python-Time-7-segment-font.git`<br>
 `cd Python-Time-7-segment-font`<br>
+
+## Run
 `python main.py`<br>
