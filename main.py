@@ -57,7 +57,7 @@ def showTime(time):
 
     t = getTime(time)
     console.print(t)
- 
+
 def clear():
     console.print(console.clear("screen"))
 
